@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ESG, text mining, complex adaptive systems**
 
-- 👯 I’m looking to collaborate on **analyzing trends, technologies and governance of sustainability efforts**
+- 👯 I’m looking to collaborate on **analyzing trends, technologies and governance of environmental and social sustainability efforts**
 
-- 💬 Ask me about **System Dynamics, energy transition, statistical modeling, social network analysis, scenario modeling**
+- 💬 Ask me about **System Dynamics, socio-technical transition, statistical modeling, network analysis and scenario modeling**
 
 - 📫 How to reach me: **[email](mailto:amin.dehdarian@alumni.ethz.ch) me or connect on LinkedIn**
 
