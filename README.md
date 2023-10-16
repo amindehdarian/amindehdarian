@@ -25,5 +25,9 @@
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
+  <a href="https://vensim.com" target="_blank" rel="noreferrer">
+    <img src="https://vensim.com/wp-content/uploads/2023/06/Vensim-KsmVentanasm.png" alt="Vensim" width="40" height="40"/>
+  </a>
 </p>
+
 
