@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amin Dehdarian</h1>
+<h1 align="center"> Amin Dehdarian, PhD.</h1>
 <h3 align="center">An experienced quantitative social researcher, data scientist and product experience lead based in Zurich</h3>
 
 - 🔭 I’m currently working on **social sustainability, ESG and DE&I analytics in organizations**
