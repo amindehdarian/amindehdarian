@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ESG and advanced workforce analytics in organizations**
 
-- 🌱 I’m currently learning **SQL, LLM and complex systems theory applications for business**
+- 🌱 I’m currently learning **SQL, LLMs and complex systems theory applications for business**
 
 - 👯 I’m looking to collaborate on **workforce analytics projects, implementation of technologies and governance of environmental and social sustainability initiatives in organizations**
 
