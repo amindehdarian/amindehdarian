@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **System Dynamics, socio-technical transition, statistical modeling, network analysis and scenario modeling**
 
-- 📫 How to reach me: **[email](mailto:amin.dehdarian@alumni.ethz.ch) me or connect on LinkedIn**
+- 📫 How to reach me: **[email](mailto:amindehdarian@proton.me) me or connect on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
