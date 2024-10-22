@@ -1,13 +1,13 @@
 <h1 align="center"> Amin Dehdarian, PhD.</h1>
-<h3 align="center">Experienced quantitative social researcher, data scientist and product experience lead based in Zurich</h3>
+<h3 align="center">Experienced ESG and sustainability consultant, data and product analytics expert based in Zurich</h3>
 
-- 🔭 I’m currently working on **social sustainability, ESG and DE&I analytics in organizations**
+- 🔭 I’m currently working on **ESG and advanced workforce analytics in organizations**
 
-- 🌱 I’m currently learning **ESG, text mining, complex adaptive systems**
+- 🌱 I’m currently learning **SQL, LLM and complex systems theory applications for business**
 
-- 👯 I’m looking to collaborate on **analyzing trends, technologies and governance of environmental and social sustainability efforts**
+- 👯 I’m looking to collaborate on **workforce analytics projects, implementation of technologies and governance of environmental and social sustainability initiatives in organizations**
 
-- 💬 Ask me about **System Dynamics, socio-technical transition, statistical modeling, network analysis and scenario modeling**
+- 💬 Ask me about **workforce analytics, System Dynamics, socio-technical transitions, statistical modeling, network analysis and scenario modeling**
 
 - 📫 How to reach me: **[email](mailto:amindehdarian@proton.me) me or connect on LinkedIn**
 
