@@ -1,15 +1,15 @@
 <h1 align="center">Amin Dehdarian, MBA, PhD</h1>
 <h3 align="center">IT Business Analyst • Data Product Manager • Analytics Consultant</h3>
 
-- 🔭 I’m currently working on **data-driven product development, IT/business analysis, and advanced analytics projects**
+- 🔭 I’m currently working on **data-driven product development, enterprise analytics, and IT/business analysis projects**  
 
-- 🌱 I’m currently expanding my expertise in **SQL, Python data pipelines, LLM applications, and enterprise solution design**
+- 🌱 I’m expanding my expertise in **SQL, Python data pipelines, LLM applications, and enterprise solution architecture**  
 
-- 👯 I’m looking to collaborate on **data product development, enterprise analytics tools, digital transformation, and IT/business analysis initiatives**
+- 👯 I’m looking to collaborate on **data product development, analytics-driven transformation, and IT/business analysis initiatives in sustainability, workforce, and strategy domains**  
 
-- 💬 Ask me about **requirements engineering, product analytics, scenario modeling, forecasting, Python/R, and building data-driven decision tools**
+- 💬 Ask me about **requirements engineering, product analytics, forecasting, scenario modeling, Python/R development, and building data-driven decision tools**  
 
-- 📫 How to reach me: **[email](mailto:amindehdarian@proton.me)** or connect on **[LinkedIn](https://linkedin.com/in/amindehdarian)**
+- 📫 How to reach me: **[email](mailto:amindehdarian@proton.me)** or connect on **[LinkedIn](https://linkedin.com/in/amindehdarian)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
