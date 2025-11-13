@@ -1,4 +1,4 @@
-<h1 align="center"> Amin Dehdarian, PhD.</h1>
+<h1 align="center"> Amin Dehdarian, MBA, PhD.</h1>
 <h3 align="center">Experienced ESG and sustainability consultant, data and product analytics expert based in Zurich</h3>
 
 - 🔭 I’m currently working on **ESG and advanced workforce analytics in organizations**
